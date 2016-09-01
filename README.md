@@ -68,7 +68,7 @@ Usage
     	headname:headname
 	});
 
-    fs.writeFileSync('output.xls', xls, 'binary');
+    fs.writeFileSync('output.xlsx', xls, 'binary');
 
 
 

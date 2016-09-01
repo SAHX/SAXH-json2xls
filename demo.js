@@ -125,4 +125,4 @@ var xls = json2xls(data,{
 });
 
 
-fs.writeFileSync('output.xls', xls, 'binary');
+fs.writeFileSync('output.xlsx', xls, 'binary');
