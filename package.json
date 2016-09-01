@@ -1,0 +1,12 @@
+{
+  "name": "SAHX-json2xls",
+  "description": "SHAX-json2xls 可将json数据转Excel xls文件",
+  "version": "1.0.0",
+  "scripts": {},
+  "dependencies": {
+    "excel-export": "^0.5.1"
+  },
+  "devDependencies": {},
+  "repository": "",
+  "license": "MIT"
+}
